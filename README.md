@@ -1,4 +1,4 @@
-# Olá, eu sou o João Lucas Nascimento, estudante de Ciência da Computação e amante da tecnologia! 👋
+# Olá, eu sou o João Lucas Nascimento, estudante de Análise e Desenvolvimento de Sistemas e amante da tecnologia! 👋
 
 ## 🔗 Links
 
