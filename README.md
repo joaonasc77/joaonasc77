@@ -1,4 +1,4 @@
-## Hi there, I'm João Lucas and welcome to my profile! 👋
+## Hi there, I'm João Lucas 👋
 
 🎓 **Systems Analysis and Development student** at *Newton Paiva University Center*  
 💻 Currently developing **practical and technical skills** in:
