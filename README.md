@@ -26,7 +26,7 @@
 
 ## 🛠️ Technologies & Tools
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=git,postgres,mysql,jupyter,github,py,java,c,html,css,js,vscode&perline=13)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,postgres,mysql,github,py,java,c,html,css,js,vscode&perline=13)](https://skillicons.dev)
 
 ## 📫 How to reach me
 <div>
