@@ -15,6 +15,15 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonasc77&layout=compact&theme=synthwave&hide_border=false" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=joaonasc77&show_icons=true&theme=synthwave&hide_border=false&count_private=true" />
+  </a>
+</p>
+
 ## 🛠️ Technologies & Tools
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
