@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/capa github.png" width="100%">
+</p>
+
 <h1 align="center">Olá, eu sou o João!👋</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas</h3>
 
