@@ -1,17 +1,9 @@
-## Hi there, I'm João Lucas 👋
+<h1 align="center">Olá, eu sou o João!👋</h1>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas</h3>
 
-🎓 **Systems Analysis and Development student** at *Newton Paiva University Center*  
-💻 Currently developing **practical and technical skills** in:
-- Programming   
-- Data modeling  
-- Data analysis  
-- Web development  
+Curioso por natureza e motivado pelo aprendizado contínuo. Venho construindo minha trajetória na tecnologia através de estudos, projetos e experiências práticas em sala de aula. Tenho interesse em diferentes áreas da tecnologia e venho construindo minha base com projetos principalmente em <strong>Python, Java, SQL, HTML, CSS, JavaScript e Power BI.</strong>
 
-📊 Interested in:
-- Data Science  
-- Cybersecurity  
-- Software development  
-- Tech communities & innovation  
+Tenho interesse em análise de dados, desenvolvimento de software e segurança da informação. Busco conhecer diferentes áreas da tecnologia para descobrir onde posso desenvolver meu potencial, criar soluções úteis, resolver problemas de forma cada vez mais eficiente e construir uma trajetória profissional baseada em aprendizado e evolução constante.
 
 ---
 
@@ -24,11 +16,14 @@
   </a>
 </p>
 
-## 🛠️ Technologies & Tools
+## Linguagens e Ferramentas
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,c,postgresql,mysql,html,css,js,vscode,git,github" />
+  </a>
+</p>
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=postgres,mysql,py,java,c,html,css,js,vscode,github,git&perline=13)](https://skillicons.dev)
-
-## 📫 How to reach me
+## Contato
 <div>
 <a href = "mailto:contato@joaolucasdv@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/joaolucasnascimentoo/" target="_blank">
